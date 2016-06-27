@@ -1,2 +1,0 @@
-webpackJsonp([3,0],[function(module,exports,__webpack_require__){"use strict";function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{"default":obj}}var _react=__webpack_require__(53),_reactDom=(_interopRequireDefault(_react),__webpack_require__(59));_interopRequireDefault(_reactDom);console.log("checkd")}]);
-//# sourceMappingURL=app.31b7b01aafa1cf1d2dee.js.map

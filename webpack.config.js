@@ -33,7 +33,11 @@ const common = {
 		]
 	},
 	plugins: [
-		new HtmlWebpackPlugin({ title: 'Testing React' })
+		new HtmlWebpackPlugin({
+			title: 'Testing React',
+			hash: false,
+			template: path.join(__dirname, 'src', 'index.html')
+		})
 	]
 }
 

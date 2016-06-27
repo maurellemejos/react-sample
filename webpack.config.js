@@ -36,7 +36,8 @@ const common = {
 		new HtmlWebpackPlugin({
 			title: 'Testing React',
 			hash: false,
-			template: path.join(__dirname, 'src', 'index.html')
+			template: path.join(__dirname, 'src', 'index.html'),
+			filename: path.join(__dirname, 'index.html')
 		})
 	]
 }
